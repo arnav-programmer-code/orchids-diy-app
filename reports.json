@@ -1,0 +1,733 @@
+{
+  "next_report_id": 5,
+  "reports": {
+    "#00001": {
+      "report_id": "#00001",
+      "generated_by": "john_doe",
+      "generated_date": "2025-06-15 13:52:14",
+      "inventory_data": {
+        "Bow arm jig saw machine + 1 plastic box of allen keys": {
+          "image_url": "https://drive.google.com/file/d/1c1WVBcCyaQ0KDBxTgAU7Cq45Vq-uwqF0/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Wood turning lathe + 1 plastic box of allen keys": {
+          "image_url": "https://drive.google.com/file/d/1-3AXALziaR34WEd746o3NIILUQ8Pup8w/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Mini metal milling machine + 1 plastic box of allen keys": {
+          "image_url": "https://drive.google.com/file/d/1ykOLTPjNJk2fnZEVNw-t_nYfo2GWrSx1/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Mini metal drilling machine + 1 plastic box of allen keys": {
+          "image_url": "https://drive.google.com/file/d/1JjuEwzBPsJp8nJSJgfDkKPHj65XBtm0D/view?usp=share_link",
+          "quantity_in_hand": 0,
+          "number_working": 0,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Mini metal sanding machine + 1 plastic box of allen keys": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Metal+Sanding",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Flexible shaft sanding/Grinding machine + 1 plastic box of allen keys": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Flexible+Shaft",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Mini metal lathe + 1 plastic box of allen keys": {
+          "image_url": "https://drive.google.com/file/d/1-AtGAuQgO-LaLhE5RyxiF3u1bwCY-v08/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Hand saw/Bow saw": {
+          "image_url": "https://drive.google.com/file/d/1S7iovfO3vJncPWW0YRb8ZgazreeZ4K3o/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "C-Clamp": {
+          "image_url": "https://drive.google.com/file/d/1-AtGAuQgO-LaLhE5RyxiF3u1bwCY-v08/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Pistol Clamp": {
+          "image_url": "https://drive.google.com/file/d/1G7nQaf0kOGvqaA66hInAwVLkfU3vy99d/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Benchwise": {
+          "image_url": "https://drive.google.com/file/d/1YRIBv3xgZAb-_jDSHUin5KzHoWf2Cs0X/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Hand filing tool set": {
+          "image_url": "https://drive.google.com/file/d/1xxrVSJR4nQVh70vueDfLn4pXCXz20LbY/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Wood Carving Chisel Set": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Wood+Chisel",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "6 Piece Heavy Duty Wood Carving Chisel Set": {
+          "image_url": "https://drive.google.com/file/d/1bFN6hdfSDb_taL7UP-IlGC9xgfpNlOC3/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Wire strippers": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Wire+Strippers",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Soldering gun": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Soldering+Gun",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Solder iron": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Solder+Iron",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Soldering stand": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Soldering+Stand",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Flux boxes": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Flux+Boxes",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Mini minus screw drivers": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Mini+Screwdriver",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Star screw drivers - Red": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Star+Red",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Minus screw drivers - Yellow": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Minus+Yellow",
+          "quantity_in_hand": 100,
+          "number_working": 99,
+          "number_not_working": 1,
+          "reason": ""
+        },
+        "Orange allen key": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Orange+Allen",
+          "quantity_in_hand": 100,
+          "number_working": 98,
+          "number_not_working": 2,
+          "reason": ""
+        },
+        "Blue allen key": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Blue+Allen",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Vernier callipers": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Vernier+Callipers",
+          "quantity_in_hand": 100,
+          "number_working": 95,
+          "number_not_working": 5,
+          "reason": "Scale Calibration"
+        }
+      }
+    },
+    "#00002": {
+      "report_id": "#00002",
+      "generated_by": "john_doe",
+      "generated_date": "2025-06-15 13:53:16",
+      "inventory_data": {
+        "Bow arm jig saw machine + 1 plastic box of allen keys": {
+          "image_url": "https://drive.google.com/file/d/1c1WVBcCyaQ0KDBxTgAU7Cq45Vq-uwqF0/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Wood turning lathe + 1 plastic box of allen keys": {
+          "image_url": "https://drive.google.com/file/d/1-3AXALziaR34WEd746o3NIILUQ8Pup8w/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Mini metal milling machine + 1 plastic box of allen keys": {
+          "image_url": "https://drive.google.com/file/d/1ykOLTPjNJk2fnZEVNw-t_nYfo2GWrSx1/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Mini metal drilling machine + 1 plastic box of allen keys": {
+          "image_url": "https://drive.google.com/file/d/1JjuEwzBPsJp8nJSJgfDkKPHj65XBtm0D/view?usp=share_link",
+          "quantity_in_hand": 0,
+          "number_working": 0,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Mini metal sanding machine + 1 plastic box of allen keys": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Metal+Sanding",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Flexible shaft sanding/Grinding machine + 1 plastic box of allen keys": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Flexible+Shaft",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Mini metal lathe + 1 plastic box of allen keys": {
+          "image_url": "https://drive.google.com/file/d/1-AtGAuQgO-LaLhE5RyxiF3u1bwCY-v08/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Hand saw/Bow saw": {
+          "image_url": "https://drive.google.com/file/d/1S7iovfO3vJncPWW0YRb8ZgazreeZ4K3o/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "C-Clamp": {
+          "image_url": "https://drive.google.com/file/d/1-AtGAuQgO-LaLhE5RyxiF3u1bwCY-v08/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Pistol Clamp": {
+          "image_url": "https://drive.google.com/file/d/1G7nQaf0kOGvqaA66hInAwVLkfU3vy99d/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Benchwise": {
+          "image_url": "https://drive.google.com/file/d/1YRIBv3xgZAb-_jDSHUin5KzHoWf2Cs0X/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Hand filing tool set": {
+          "image_url": "https://drive.google.com/file/d/1xxrVSJR4nQVh70vueDfLn4pXCXz20LbY/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Wood Carving Chisel Set": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Wood+Chisel",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "6 Piece Heavy Duty Wood Carving Chisel Set": {
+          "image_url": "https://drive.google.com/file/d/1bFN6hdfSDb_taL7UP-IlGC9xgfpNlOC3/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Wire strippers": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Wire+Strippers",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Soldering gun": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Soldering+Gun",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Solder iron": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Solder+Iron",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Soldering stand": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Soldering+Stand",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Flux boxes": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Flux+Boxes",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Mini minus screw drivers": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Mini+Screwdriver",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Star screw drivers - Red": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Star+Red",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Minus screw drivers - Yellow": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Minus+Yellow",
+          "quantity_in_hand": 100,
+          "number_working": 99,
+          "number_not_working": 1,
+          "reason": ""
+        },
+        "Orange allen key": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Orange+Allen",
+          "quantity_in_hand": 100,
+          "number_working": 98,
+          "number_not_working": 2,
+          "reason": ""
+        },
+        "Blue allen key": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Blue+Allen",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Vernier callipers": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Vernier+Callipers",
+          "quantity_in_hand": 100,
+          "number_working": 95,
+          "number_not_working": 5,
+          "reason": "Scale Calibration"
+        }
+      }
+    },
+    "#00003": {
+      "report_id": "#00003",
+      "generated_by": "john_doe",
+      "generated_date": "2025-06-15 19:12:45",
+      "inventory_data": {
+        "Bow arm jig saw machine + 1 plastic box of allen keys": {
+          "image_url": "https://drive.google.com/file/d/1c1WVBcCyaQ0KDBxTgAU7Cq45Vq-uwqF0/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Wood turning lathe + 1 plastic box of allen keys": {
+          "image_url": "https://drive.google.com/file/d/1-3AXALziaR34WEd746o3NIILUQ8Pup8w/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Mini metal milling machine + 1 plastic box of allen keys": {
+          "image_url": "https://drive.google.com/file/d/1ykOLTPjNJk2fnZEVNw-t_nYfo2GWrSx1/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Mini metal drilling machine + 1 plastic box of allen keys": {
+          "image_url": "https://drive.google.com/file/d/1JjuEwzBPsJp8nJSJgfDkKPHj65XBtm0D/view?usp=share_link",
+          "quantity_in_hand": 0,
+          "number_working": 0,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Mini metal sanding machine + 1 plastic box of allen keys": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Metal+Sanding",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Flexible shaft sanding/Grinding machine + 1 plastic box of allen keys": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Flexible+Shaft",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Mini metal lathe + 1 plastic box of allen keys": {
+          "image_url": "https://drive.google.com/file/d/1-AtGAuQgO-LaLhE5RyxiF3u1bwCY-v08/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Hand saw/Bow saw": {
+          "image_url": "https://drive.google.com/file/d/1S7iovfO3vJncPWW0YRb8ZgazreeZ4K3o/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "C-Clamp": {
+          "image_url": "https://drive.google.com/file/d/1-AtGAuQgO-LaLhE5RyxiF3u1bwCY-v08/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Pistol Clamp": {
+          "image_url": "https://drive.google.com/file/d/1G7nQaf0kOGvqaA66hInAwVLkfU3vy99d/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Benchwise": {
+          "image_url": "https://drive.google.com/file/d/1YRIBv3xgZAb-_jDSHUin5KzHoWf2Cs0X/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Hand filing tool set": {
+          "image_url": "https://drive.google.com/file/d/1xxrVSJR4nQVh70vueDfLn4pXCXz20LbY/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Wood Carving Chisel Set": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Wood+Chisel",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "6 Piece Heavy Duty Wood Carving Chisel Set": {
+          "image_url": "https://drive.google.com/file/d/1bFN6hdfSDb_taL7UP-IlGC9xgfpNlOC3/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Wire strippers": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Wire+Strippers",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Soldering gun": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Soldering+Gun",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Solder iron": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Solder+Iron",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Soldering stand": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Soldering+Stand",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Flux boxes": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Flux+Boxes",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Mini minus screw drivers": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Mini+Screwdriver",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Star screw drivers - Red": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Star+Red",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Minus screw drivers - Yellow": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Minus+Yellow",
+          "quantity_in_hand": 100,
+          "number_working": 99,
+          "number_not_working": 1,
+          "reason": ""
+        },
+        "Orange allen key": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Orange+Allen",
+          "quantity_in_hand": 100,
+          "number_working": 98,
+          "number_not_working": 2,
+          "reason": ""
+        },
+        "Blue allen key": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Blue+Allen",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Vernier callipers": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Vernier+Callipers",
+          "quantity_in_hand": 100,
+          "number_working": 95,
+          "number_not_working": 5,
+          "reason": "Scale Calibration"
+        }
+      }
+    },
+    "#00004": {
+      "report_id": "#00004",
+      "generated_by": "john_doe",
+      "generated_date": "2025-06-15 19:13:08",
+      "inventory_data": {
+        "Bow arm jig saw machine + 1 plastic box of allen keys": {
+          "image_url": "https://drive.google.com/file/d/1c1WVBcCyaQ0KDBxTgAU7Cq45Vq-uwqF0/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Wood turning lathe + 1 plastic box of allen keys": {
+          "image_url": "https://drive.google.com/file/d/1-3AXALziaR34WEd746o3NIILUQ8Pup8w/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Mini metal milling machine + 1 plastic box of allen keys": {
+          "image_url": "https://drive.google.com/file/d/1ykOLTPjNJk2fnZEVNw-t_nYfo2GWrSx1/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Mini metal drilling machine + 1 plastic box of allen keys": {
+          "image_url": "https://drive.google.com/file/d/1JjuEwzBPsJp8nJSJgfDkKPHj65XBtm0D/view?usp=share_link",
+          "quantity_in_hand": 0,
+          "number_working": 0,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Mini metal sanding machine + 1 plastic box of allen keys": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Metal+Sanding",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Flexible shaft sanding/Grinding machine + 1 plastic box of allen keys": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Flexible+Shaft",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Mini metal lathe + 1 plastic box of allen keys": {
+          "image_url": "https://drive.google.com/file/d/1-AtGAuQgO-LaLhE5RyxiF3u1bwCY-v08/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Hand saw/Bow saw": {
+          "image_url": "https://drive.google.com/file/d/1S7iovfO3vJncPWW0YRb8ZgazreeZ4K3o/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "C-Clamp": {
+          "image_url": "https://drive.google.com/file/d/1-AtGAuQgO-LaLhE5RyxiF3u1bwCY-v08/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Pistol Clamp": {
+          "image_url": "https://drive.google.com/file/d/1G7nQaf0kOGvqaA66hInAwVLkfU3vy99d/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Benchwise": {
+          "image_url": "https://drive.google.com/file/d/1YRIBv3xgZAb-_jDSHUin5KzHoWf2Cs0X/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Hand filing tool set": {
+          "image_url": "https://drive.google.com/file/d/1xxrVSJR4nQVh70vueDfLn4pXCXz20LbY/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Wood Carving Chisel Set": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Wood+Chisel",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "6 Piece Heavy Duty Wood Carving Chisel Set": {
+          "image_url": "https://drive.google.com/file/d/1bFN6hdfSDb_taL7UP-IlGC9xgfpNlOC3/view?usp=share_link",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Wire strippers": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Wire+Strippers",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Soldering gun": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Soldering+Gun",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Solder iron": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Solder+Iron",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Soldering stand": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Soldering+Stand",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Flux boxes": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Flux+Boxes",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Mini minus screw drivers": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Mini+Screwdriver",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Star screw drivers - Red": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Star+Red",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Minus screw drivers - Yellow": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Minus+Yellow",
+          "quantity_in_hand": 100,
+          "number_working": 99,
+          "number_not_working": 1,
+          "reason": ""
+        },
+        "Orange allen key": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Orange+Allen",
+          "quantity_in_hand": 100,
+          "number_working": 98,
+          "number_not_working": 2,
+          "reason": ""
+        },
+        "Blue allen key": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Blue+Allen",
+          "quantity_in_hand": 100,
+          "number_working": 100,
+          "number_not_working": 0,
+          "reason": ""
+        },
+        "Vernier callipers": {
+          "image_url": "https://via.placeholder.com/150x100/DC143C/FFFFFF?text=Vernier+Callipers",
+          "quantity_in_hand": 100,
+          "number_working": 95,
+          "number_not_working": 5,
+          "reason": "Scale Calibration"
+        }
+      }
+    }
+  }
+}

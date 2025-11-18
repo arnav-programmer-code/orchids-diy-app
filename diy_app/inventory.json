@@ -1,0 +1,177 @@
+{
+  "Bow arm jig saw machine + 1 plastic box of allen keys": {
+    "image_url": "diy_images/bow arm jigsaw.png",
+    "quantity_in_hand": 100,
+    "number_working": 9,
+    "number_not_working": 5,
+    "reason": "Due to some problem"
+  },
+  "Wood turning lathe + 1 plastic box of allen keys": {
+    "image_url": "diy_images/wood turning lathe.png",
+    "quantity_in_hand": 100,
+    "number_working": 100,
+    "number_not_working": 0,
+    "reason": ""
+  },
+  "Mini metal milling machine + 1 plastic box of allen keys": {
+    "image_url": "diy_images/milling.png",
+    "quantity_in_hand": 100,
+    "number_working": 100,
+    "number_not_working": 0,
+    "reason": ""
+  },
+  "Mini metal drilling machine + 1 plastic box of allen keys": {
+    "image_url": "diy_images/drilling.png",
+    "quantity_in_hand": 100,
+    "number_working": 100,
+    "number_not_working": 0,
+    "reason": ""
+  },
+  "Mini metal sanding machine + 1 plastic box of allen keys": {
+    "image_url": "diy_images/sanding.jpg",
+    "quantity_in_hand": 100,
+    "number_working": 100,
+    "number_not_working": 0,
+    "reason": ""
+  },
+  "Flexible shaft sanding/Grinding machine + 1 plastic box of allen keys": {
+    "image_url": "diy_images/flexible_shaft.jpg",
+    "quantity_in_hand": 100,
+    "number_working": 100,
+    "number_not_working": 0,
+    "reason": ""
+  },
+  "Mini metal lathe + 1 plastic box of allen keys": {
+    "image_url": "diy_images/mini_metal_lathe.jpg",
+    "quantity_in_hand": 100,
+    "number_working": 95,
+    "number_not_working": 5,
+    "reason": "Due to some technical Issue"
+  },
+  "Hand saw/Bow saw": {
+    "image_url": "diy_images/handsaw.png",
+    "quantity_in_hand": 100,
+    "number_working": 100,
+    "number_not_working": 0,
+    "reason": ""
+  },
+  "C-Clamp": {
+    "image_url": "diy_images/C Clamp.png",
+    "quantity_in_hand": 100,
+    "number_working": 100,
+    "number_not_working": 0,
+    "reason": ""
+  },
+  "Pistol Clamp": {
+    "image_url": "diy_images/pistol clamp.png",
+    "quantity_in_hand": 100,
+    "number_working": 100,
+    "number_not_working": 0,
+    "reason": ""
+  },
+  "Benchwise": {
+    "image_url": "diy_images/benchwise.png",
+    "quantity_in_hand": 100,
+    "number_working": 100,
+    "number_not_working": 0,
+    "reason": ""
+  },
+  "Hand filing tool set": {
+    "image_url": "diy_images/hand filing tool set.png",
+    "quantity_in_hand": 100,
+    "number_working": 100,
+    "number_not_working": 0,
+    "reason": ""
+  },
+  "Wood Carving Chisel Set": {
+    "image_url": "diy_images/chisel set.png",
+    "quantity_in_hand": 100,
+    "number_working": 100,
+    "number_not_working": 0,
+    "reason": ""
+  },
+  "6 Piece Heavy Duty Wood Carving Chisel Set": {
+    "image_url": "diy_images/6_piece_duty_wood_chisel_set.jpg",
+    "quantity_in_hand": 100,
+    "number_working": 100,
+    "number_not_working": 0,
+    "reason": ""
+  },
+  "Wire strippers": {
+    "image_url": "diy_images/wire_strippers.jpg",
+    "quantity_in_hand": 100,
+    "number_working": 100,
+    "number_not_working": 0,
+    "reason": ""
+  },
+  "Soldering gun": {
+    "image_url": "diy_images/soldering_gun.jpg",
+    "quantity_in_hand": 100,
+    "number_working": 100,
+    "number_not_working": 0,
+    "reason": ""
+  },
+  "Solder iron": {
+    "image_url": "diy_images/soldering_iron.jpg",
+    "quantity_in_hand": 100,
+    "number_working": 100,
+    "number_not_working": 0,
+    "reason": ""
+  },
+  "Soldering stand": {
+    "image_url": "diy_images/soldering_stand.jpg",
+    "quantity_in_hand": 100,
+    "number_working": 100,
+    "number_not_working": 0,
+    "reason": ""
+  },
+  "Flux boxes": {
+    "image_url": "diy_images/flux_boxes.jpg",
+    "quantity_in_hand": 100,
+    "number_working": 100,
+    "number_not_working": 0,
+    "reason": ""
+  },
+  "Mini minus screw drivers": {
+    "image_url": "diy_images/mini_minus_screw_drivers.jpg",
+    "quantity_in_hand": 100,
+    "number_working": 100,
+    "number_not_working": 0,
+    "reason": ""
+  },
+  "Star screw drivers - Red": {
+    "image_url": "diy_images/star_screw_drivers_red.jpg",
+    "quantity_in_hand": 100,
+    "number_working": 100,
+    "number_not_working": 0,
+    "reason": ""
+  },
+  "Minus screw drivers - Yellow": {
+    "image_url": "diy_images/minus_screw_drivers_yellow.jpg",
+    "quantity_in_hand": 100,
+    "number_working": 99,
+    "number_not_working": 1,
+    "reason": ""
+  },
+  "Orange allen key": {
+    "image_url": "diy_images/orange_allen_key.jpg",
+    "quantity_in_hand": 100,
+    "number_working": 98,
+    "number_not_working": 2,
+    "reason": ""
+  },
+  "Blue allen key": {
+    "image_url": "diy_images/blue_allen_key.png",
+    "quantity_in_hand": 100,
+    "number_working": 100,
+    "number_not_working": 0,
+    "reason": ""
+  },
+  "Vernier callipers": {
+    "image_url": "diy_images/vernier_callipers.jpg",
+    "quantity_in_hand": 100,
+    "number_working": 95,
+    "number_not_working": 5,
+    "reason": "Scale Calibration"
+  }
+}
